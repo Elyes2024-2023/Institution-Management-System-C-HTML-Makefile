@@ -8,7 +8,7 @@ CC = gcc
 CFLAGS = -Wall -Wextra -fPIC
 LDFLAGS = -shared
 
-# Version information - Done by ELYES
+# Version information - Done by  ELYES
 VERSION = 1.0.0
 LIB_NAME = libelyes_management.so.$(VERSION)
 SONAME = libelyes_management.so
